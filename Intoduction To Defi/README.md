@@ -23,7 +23,7 @@ A financial market is a marketplace where financial assets can be traded
 Traditional finance institutions are centralized. Threse financial institutions provides services such as banks, securities etc.
 Charesteristics of Traditional Finance Institutes
 
-* HoldCustody of customers assets. Has the power to freeze those assets
+* Hold Custody of customers assets. Has the power to freeze those assets
 * Serves as intermediary for transactions for which thery charge fees.
 * Adhere to stirct regulations. KYC, AML and CFT
 * Customer has no privacy to the service provider. Knows the full identity of the customer and their transactions.
